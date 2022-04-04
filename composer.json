@@ -1,5 +1,5 @@
 {
-    "name": "zf-commons/zfc-user-doctrine-mongo-odm",
+    "name": "timurturdyev/zfc-user-doctrine-mongo-odm",
     "description": "Doctrine2 Mongo storage adapter for ZfcUser.",
     "type": "library",
     "license": "BSD-3-Clause",
